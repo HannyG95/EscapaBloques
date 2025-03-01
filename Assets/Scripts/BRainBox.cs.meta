@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 704e3e73609d6d74187aca75c3813806
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objetoCerebro: {fileID: 2863224200550246050, guid: 4a08dea8c6823114c9ae58708c692a54, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
